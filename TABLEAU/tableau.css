@@ -1,0 +1,10 @@
+table{
+    border-collapse: collapse;
+}
+thead{
+    background-color: yellow;
+    text-align: center;
+}
+tbody{
+    border: 1px solid blue;
+}
